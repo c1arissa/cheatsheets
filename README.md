@@ -27,3 +27,10 @@ cd vim
 cp -r colors ~/.vim
 mv ~/.vim/plugged/vim-colorschemes/colors/dracula.vim ~/.vim/plugged/vim-colorschemes/colors/draculav2.vim
 ```
+
+molokai scheme
+
+```
+Plug 'tomasr/molokai'
+mv ~/.vim/plugged/molokai/colors/molokai.vim ~/.vim/colors
+```
