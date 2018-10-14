@@ -8,8 +8,14 @@ dotfiles, configs, reference sheets, plugins, links, etc.
 * [Install vim](https://www.vim.org/download.php)
 
 * [Install vim-plug](https://github.com/junegunn/vim-plug)
-C:\> md C:\vim\vimfiles\autoload
+
+`C:\> md C:\vim\vimfiles\autoload`
+
 Open Powershell:
+
+```
 PS C:\WINDOWS\system32> $uri = 'https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
 PS C:\WINDOWS\system32> (New-Object Net.WebClient).DownloadFile($uri,$ExecutionContext.SessionState.Path.GetUnresolvedPr
 oviderPathFromPSPath("C:\vim\vimfiles\autoload\plug.vim"))
+```
+
