@@ -19,8 +19,11 @@ PS C:\WINDOWS\system32> (New-Object Net.WebClient).DownloadFile($uri,$ExecutionC
 oviderPathFromPSPath("C:\vim\vimfiles\autoload\plug.vim"))
 ```
 
-
 Install promptline plugin with airline installed:
 
     In vim :PromptlineSnapshot ~/.promptline.sh airline
     In bash/zsh source ~/.promptline.sh
+
+* [powerline fonts](https://github.com/powerline/fonts)
+
+`sudo apt-get install fonts-powerline`
