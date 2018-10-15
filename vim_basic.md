@@ -57,21 +57,21 @@ Type > or < to indent right or left.
 Navigation
 ----------
 
-| Direction                 |  Key    |
-|---------------------------|---------|
-Go up                       |  k
-Go down                     |  j
-Go left                     |  h
-Go right                    |  l
-Go right a word             |  w
-Go left a word              |  b
-Go to beginning of file     |  gg
-Go to end of file           |  G
-Go 22 lines down            |  22j
-Go to end of line           |  $
-Go to beginning of 
-non-whitespace part of line |  ^
-Go right 5 words            |  5w
+| Direction                   | Key  |
+| --------------------------- |------|
+| Go up                       |  k   |
+| Go down                     |  j   |
+| Go left                     |  h   |
+| Go right                    |  l   |
+| Go right a word             |  w   |
+| Go left a word              |  b   |
+| Go to beginning of file     |  gg  |
+| Go to end of file           |  G   |
+| Go 22 lines down            |  22j |
+| Go to end of line           |  $   |
+| Go to beginning of          |  ^   |
+non-whitespace part of line
+| Go right 5 words            |  5w  |
 
 
 Insert Text
