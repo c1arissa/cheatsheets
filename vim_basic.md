@@ -107,20 +107,26 @@ Search & Replace
 Search  `/`  (and press the enter key)
 
 Find next       `n`
+
 Find previous   `N`
 
 Turn off highlighting (after a search)  `:noh`
 
 Find next instance of a word that your
-cursor is over    *
+cursor is over    `*`
 
-Search and replace from current line to end of file:
+### Basic:
 
-`:,$s/search/replace/gc` (the gc means global and confirm)
+:----------------------- | :----------------------------------------------
+`:s/foo/bar/g`           | Change each 'foo' to 'bar' in the current line.
 
-`:s/foo/bar/g` 	Change each 'foo' to 'bar' in the current line.
+`:%s/foo/bar/g`          | Change each 'foo' to 'bar' in all the lines.
 
-`:%s/foo/bar/g` 	Change each 'foo' to 'bar' in all the lines.
+`:%s/\<foo\>/bar/gc`     | Change only whole words exactly matching 'foo' to 'bar'.
+
+`:,$s/search/replace/gc` | Search and replace from current line to end of file
+
+### Advanced:
 
 `:5,12s/foo/bar/g` 	Change each 'foo' to 'bar' for all lines from line 5 to line 12 (inclusive).
 
