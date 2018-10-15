@@ -117,6 +117,10 @@ cursor is over    `*`
 
 ### Basic:
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+
 :----------------------- | :----------------------------------------------
 `:s/foo/bar/g`           | Change each 'foo' to 'bar' in the current line.
 
