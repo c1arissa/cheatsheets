@@ -104,13 +104,13 @@ Type :w to write to the file.
 
 Search & Replace
 ----------------
-Search  `/`  (and press the enter key)
+`/search` and <ENTER>
 
 Find next       `n`
 
 Find previous   `N`
 
-Turn off highlighting (after a search)  `:noh`
+Turn off highlighting `:noh`
 
 Find next instance of a word that your
 cursor is over    `*`
