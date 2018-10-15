@@ -94,7 +94,7 @@ Type :w to write to the file.
 
 Search & Replace
 ----------------
-`/search` and <ENTER>
+`/search` and `<ENTER>`
 
 Find next       `n`
 
