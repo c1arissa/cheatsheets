@@ -19,18 +19,8 @@ PS C:\WINDOWS\system32> (New-Object Net.WebClient).DownloadFile($uri,$ExecutionC
 oviderPathFromPSPath("C:\vim\vimfiles\autoload\plug.vim"))
 ```
 
-* [Dracula](https://github.com/dracula/vim)
 
-```
-git clone https://github.com/dracula/vim.git
-cd vim
-cp -r colors ~/.vim
-mv ~/.vim/plugged/vim-colorschemes/colors/dracula.vim ~/.vim/plugged/vim-colorschemes/colors/draculav2.vim
-```
+Install promptline plugin with airline installed:
 
-molokai scheme
-
-```
-Plug 'tomasr/molokai'
-mv ~/.vim/plugged/molokai/colors/molokai.vim ~/.vim/colors
-```
+    In vim :PromptlineSnapshot ~/.promptline.sh airline
+    In bash/zsh source ~/.promptline.sh
