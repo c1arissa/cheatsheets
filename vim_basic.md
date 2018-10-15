@@ -117,15 +117,12 @@ cursor is over    `*`
 
 ### Basic:
 
-| Command       | Description |
-| ------------- |-------------|
-`:s/foo/bar/g`           | Change each 'foo' to 'bar' in the current line.
-
-`:%s/foo/bar/g`          | Change each 'foo' to 'bar' in all the lines.
-
-`:%s/\<foo\>/bar/gc`     | Change only whole words exactly matching 'foo' to 'bar'.
-
-`:,$s/search/replace/gc` | Search and replace from current line to end of file
+| Command                  | Description                                              |
+| -------------            |-------------                                             |
+| `:s/foo/bar/g`           | Change each 'foo' to 'bar' in the current line.          |
+| `:%s/foo/bar/g`          | Change each 'foo' to 'bar' in all the lines.             |
+| `:%s/\<foo\>/bar/gc`     | Change only whole words exactly matching 'foo' to 'bar'. |
+| `:,$s/search/replace/gc` | Search and replace from current line to end of file      |
 
 ### Advanced:
 
