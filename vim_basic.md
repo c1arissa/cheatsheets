@@ -1,20 +1,8 @@
 
-Simple VIM Reference                  http://simpletutorials.com
-------------------------------------------------------------------------------
-
-When you first open the VIM editor, you are in the command mode of the editor. 
-The command mode is where you type in VIM commands to manipulate text. 
-
-Insertion mode is where you can type text normally. (Like in Windows Notepad) 
-To get into insertion mode, type i (abbreviation for insert). 
-To get into command mode, press the Esc key.
-
-If you're ever not sure which mode you're in, just press the Esc key 
-and you'll be in command mode for sure.
+VIM Reference
+-------------
 
 The following commands are executed in command mode.
-------------------------------------------------------------------------------
-
 
 Copy & Paste
 ------------
@@ -68,20 +56,22 @@ Type > or < to indent right or left.
 
 Navigation
 ----------
-Go up                         k
-Go down                       j
-Go left                       h
-Go right                      l
-Go right a word               w
-Go left a word                b
-Go to beginning of file       gg
-Go to end of file             G
-Go 22 lines down              22j
-Go to end of line             $
-Go to beginning of 
-non-whitespace part of line   ^
 
-Go right 5 words              5w
+| Direction                 |  Key    |
+|---------------------------|---------|
+Go up                       |  k
+Go down                     |  j
+Go left                     |  h
+Go right                    |  l
+Go right a word             |  w
+Go left a word              |  b
+Go to beginning of file     |  gg
+Go to end of file           |  G
+Go 22 lines down            |  22j
+Go to end of line           |  $
+Go to beginning of 
+non-whitespace part of line |  ^
+Go right 5 words            |  5w
 
 
 Insert Text
