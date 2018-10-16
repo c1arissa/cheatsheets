@@ -27,3 +27,5 @@ Install promptline plugin with airline installed:
 * [powerline fonts](https://github.com/powerline/fonts)
 
 `sudo apt-get install fonts-powerline`
+
+:TabooRename [filename]
