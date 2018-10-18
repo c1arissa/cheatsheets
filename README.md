@@ -28,4 +28,10 @@ Install promptline plugin with airline installed:
 
 `sudo apt-get install fonts-powerline`
 
+apt-get install xsel
+
+* NERD tree
+
+`:NERDtree`
+
 :TabooRename [filename]
