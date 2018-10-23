@@ -35,3 +35,5 @@ apt-get install xsel
 `:NERDtree`
 
 :TabooRename [filename]
+
+https://github.com/swaroopch/byte-of-vim/blob/master/plugins.md
