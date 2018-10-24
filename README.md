@@ -36,4 +36,7 @@ apt-get install xsel
 
 :TabooRename [filename]
 
-https://github.com/swaroopch/byte-of-vim/blob/master/plugins.md
+* [vim afterglow colorscheme](https://github.com/danilo-augusto/vim-afterglow)
+* [Install YCM manually](https://github.com/junegunn/vim-plug/wiki/faq#installing-youcompleteme-manually)
+* [Learning the vi and vim editors](ftp://ftp.borg.moe/yarr/Gentoomen%20Library/Operating%20Systems/Unix/Learning%20the%20vi%20and%20Vim%20Editors,%207e.pdf)
+* [vimrc examples](https://github.com/swaroopch/byte-of-vim/blob/master/plugins.md)
