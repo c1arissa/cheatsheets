@@ -68,6 +68,7 @@ Navigation
 | Go to beginning of file     |  gg  |
 | Go to end of file           |  G   |
 | Go 22 lines down            |  22j |
+| Go to begininng of line     |  0   |
 | Go to end of line           |  $   |
 | Go to beginning of          |  ^   |
 non-whitespace part of line
