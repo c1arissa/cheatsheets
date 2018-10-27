@@ -26,13 +26,24 @@ Install promptline plugin with airline installed:
 
 * [powerline fonts](https://github.com/powerline/fonts)
 
+Install powerline fonts on Bash:
+
 `sudo apt-get install fonts-powerline`
+
+Install powerline fonts on Windows:
+
+```
+in powershell:
+git clone https://github.com/powerline/fonts.git --depth=1
+cd fonts
+.\install.ps1
+```
 
 apt-get install xsel
 
 * NERD tree
 
-`:NERDtree`
+`:NERDTree`
 
 :TabooRename [filename]
 
