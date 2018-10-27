@@ -41,3 +41,6 @@ apt-get install xsel
 * [Learning the vi and vim editors](ftp://ftp.borg.moe/yarr/Gentoomen%20Library/Operating%20Systems/Unix/Learning%20the%20vi%20and%20Vim%20Editors,%207e.pdf)
 * [vimrc examples](https://github.com/swaroopch/byte-of-vim/blob/master/plugins.md)
 * [Vim Cheatsheet](https://vim.rtorr.com/)
+* [Installing FontForge](http://designwithfontforge.com/en-US/Installing_Fontforge.html)
+* [Install FontForge manually](https://github.com/fontforge/fontforge/blob/master/INSTALL-git.md)
+* [FontForge (Windows dl](https://fontforge.github.io/en-US/downloads/windows-dl/)
