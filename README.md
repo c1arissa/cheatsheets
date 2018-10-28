@@ -55,3 +55,5 @@ apt-get install xsel
 * [Installing FontForge](http://designwithfontforge.com/en-US/Installing_Fontforge.html)
 * [Install FontForge manually](https://github.com/fontforge/fontforge/blob/master/INSTALL-git.md)
 * [FontForge (Windows dl](https://fontforge.github.io/en-US/downloads/windows-dl/)
+* [Scoop](https://scoop.sh/)
+* [wsltty](https://github.com/mintty/wsltty)
